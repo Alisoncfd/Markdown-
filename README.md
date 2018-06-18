@@ -114,3 +114,30 @@ le REM est basé sur la taille de la racine (soit la balsie html) qui, par défa
 
 ### vw
 Unités relatives à la taille de votre écran (peu importe le device) Attention au VH et à son contenu. 100vh === 100vh quoi qu'il arrive. VW : trés utiles pour les interfaces fluides.
+
+
+
+### Librairie JS
+AnimeJS.com
+
+
+### Flex Box
+Selon une grille de 12 colonnes, on place ses éléments  
+
+Un plus pour pour le responsive (media queries deja défini, layout ect avec des tailles différentes).
+
+Classe row = éléments en display flex
+
+```HTML
+<div class='row'>
+ </div>
+```
+
+
+## Design
+
+### Veille
+Awwwards
+Behance
+Dribble
+Pinterest
