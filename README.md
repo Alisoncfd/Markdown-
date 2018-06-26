@@ -141,3 +141,19 @@ Awwwards
 Behance
 Dribble
 Pinterest
+Medium
+
+#### Typography
+Fontjoy
+Fonts google
+Fontflame
+
+#### Photo
+Unsplash
+Pexels
+Thestocks
+
+#### Icon
+Flaticon
+Thenounproject
+Iconsflow
